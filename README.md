@@ -58,3 +58,7 @@ Visualize Results: Use CVZone LivePlot to visualize the heart rate estimation re
                                        │    Results        │
                                        │   CVZone LivePlot │
                                        └───────────────────┘
+
+
+
+                                       develop by 3 star 
