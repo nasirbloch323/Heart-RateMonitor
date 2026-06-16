@@ -196,32 +196,8 @@ print("Hello World")
 
 ```
 
-### Lists & Links
 
-```markdown
-- Unordered List item 1
-- Unordered List item 2
 
-1. Ordered List item 1
-2. Ordered List item 2
-
-[Google Link](https://www.google.com)
-
-```
-
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(content)
-
-print("File written successfully!")
-
-```
-Aapki demand ke mutabiq maine saari commands (CLI, Python, Docker, ECR, Linux Utilities) aur sath hi Markdown (MD) ka complete syntax cheat sheet **aik hi file** me ready kar diya hai taaki aapko koi formatting ya styling ka issue na aaye.
-
-Your README file is ready
-[file-tag: code-generated-file-0-1781585328182707110]
-
-Aap is `.md` file ko direct download karke apne GitHub project me use kar sakte hain. Is file ke aakhir (Section 6) me maine Markdown ka syntax bhi add kar diya hai taaki aap jab chahein dekh sakein ke headings, bold text, aur code blocks markdown me kaise likhe jaate hain.
+.
 
 ```
