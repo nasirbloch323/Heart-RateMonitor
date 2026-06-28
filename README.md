@@ -4,7 +4,7 @@
 
 ## 🏢 Industry Scenario
 
-A DevOps Engineer is working at a **healthcare tech company** that delivers lightweight, secure, and optimized container images for a **Heart Rate Monitoring application**. To minimize Docker image size in the CI/CD pipeline and production environment, the engineer uses a **Docker Multistage Build**.
+A DevOps Engineer is working at a **healthcare tech company** that delivers lightweight, secure, and optimized container images for a **Heart Rate Monitoring application**. To minimize Docker image size in the CI/CD pipeline and production environment, the engineer uses a **Docker Multistages Build**.
 
 This technique removes unnecessary build dependencies from the final image — critical for speed, security, and reliability in modern health-tech microservices architectures.
 
