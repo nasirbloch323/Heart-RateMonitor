@@ -1,4 +1,4 @@
-# 💓 Heart Rate Monitor App — Docker Multistage Build + Push to Elastic Container Registry (ECR)
+# 💓 Heart Rate Monitor App — Docker Multistage Build + Push to Elastic Container Registry (ECR) ...
 
 ---
 
